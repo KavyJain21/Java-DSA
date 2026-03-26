@@ -1,3 +1,4 @@
+package Array;
 import java.util.*;
 public class AnagramCheck {
     public static boolean areAnagrams(String str1, String str2) {
